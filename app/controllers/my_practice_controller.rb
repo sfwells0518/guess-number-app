@@ -1,0 +1,2 @@
+class MyPracticeController < ApplicationController
+end

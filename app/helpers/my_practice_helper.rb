@@ -1,0 +1,2 @@
+module MyPracticeHelper
+end
